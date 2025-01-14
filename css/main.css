@@ -1,1 +1,6 @@
 /* Place CSS styles here */
+body {
+    color:black
+    background:cornsilk;
+    font-size: 66px;
+}
