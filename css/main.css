@@ -3,7 +3,6 @@ body {
     color:black;
     background-color: cornsilk;
     font-size: 66px;
-    background-image: url(../img/istockphoto-481811379-612x612.jpg);
 }
 
 .snow-day {
@@ -12,4 +11,20 @@ body {
 
 .snow-angel {
     border: 10px solid white;
+}
+
+.Practice-hero {
+    background-image: url(../img/istockphoto-481811379-612x612.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 400px;;
+}
+
+.Bio-container {
+    font-family: Helvetica;
+    text-align: center;
+}
+
+.Gizz-Profile {
+    
 }
