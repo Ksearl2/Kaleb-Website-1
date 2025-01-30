@@ -10,7 +10,8 @@ a{
 }
 
 a:hover {
-    color: rebeccapurple;
+    color: rgb(195, 93, 184);
+    text-shadow: rgb(185, 32, 185) 1px 0 10px;;
 }
 
 .snow-day {
