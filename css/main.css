@@ -5,6 +5,14 @@ body {
     font-size: 66px;
 }
 
+a{
+    color: black;
+}
+
+a:hover {
+    color: rebeccapurple;
+}
+
 .snow-day {
     color: darkblue;
 }
@@ -21,10 +29,13 @@ body {
 }
 
 .Bio-container {
-    font-family: Helvetica;
+    font-family: 'Gill Sans', sans-serif;
+    font-weight: 100;
     text-align: center;
+    font-size: 33px;
 }
 
 .Gizz-Profile {
-    
+    text-align: center;
+   
 }
