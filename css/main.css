@@ -40,3 +40,10 @@ a:hover {
     text-align: center;
    
 }
+
+p {
+
+    color: blue;
+    font-size: 25px;
+    font-family: Arial, sans-serif;      
+}
